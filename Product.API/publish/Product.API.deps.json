@@ -1648,7 +1648,8 @@
           "IdentityModel": "6.1.0",
           "Microsoft.AspNetCore.Mvc": "2.2.0",
           "Microsoft.Extensions.Caching.Memory": "7.0.0",
-          "Newtonsoft.Json": "13.0.3"
+          "Newtonsoft.Json": "13.0.3",
+          "log4net": "2.0.15"
         },
         "runtime": {
           "Common.dll": {}
